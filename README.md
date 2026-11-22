@@ -41,4 +41,4 @@ Die Test-APK liegt danach unter `android/app/build/outputs/apk/debug/app-debug.a
 
 ---
 
-**by Manuel Pollhammer** · [pollhammer.org/nippel](https://www.pollhammer.org/nippel)
+**by Manuel Pollhammer** · [nippel.pollhammer.org](https://nippel.pollhammer.org)
