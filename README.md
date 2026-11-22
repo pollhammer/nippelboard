@@ -7,7 +7,7 @@ Ein Soundboard von Manuel Pollhammer für Web und Android.</p>
 
 <p><a href="https://www.pollhammer.org/nippel"><strong>▶ Soundboard öffnen</strong></a> · <a href="./Nippelboard%20v1.6.apk?raw=true"><strong>↓ Android-APK v1.6</strong></a></p>
 
-<img src="docs/nippelboard-plakat.webp" width="440" alt="Nippelboard-Plakat im japanischen Retro-Arcade-Stil. Manuel Pollhammer zeigt den Daumen hoch neben einem riesigen roten Knopf.">
+<img src="docs/nippelboard-plakat.webp" width="340" alt="Nippelboard-Plakat im japanischen Retro-Arcade-Stil. Manuel Pollhammer zeigt den Daumen hoch neben einem riesigen roten Knopf.">
 
 </div>
 
