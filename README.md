@@ -7,7 +7,7 @@ Ein Soundboard von Manuel Pollhammer für Web und Android.</p>
 
 <p><a href="https://www.pollhammer.org/nippel"><strong>▶ Soundboard öffnen</strong></a> · <a href="./Nippelboard%20v1.6.apk?raw=true"><strong>↓ Android-APK v1.6</strong></a></p>
 
-<img src="docs/nippelboard.png">
+<img src="https://github.com/pollhammer/nippelboard/blob/main/docs/nippelbord.png?raw=true" width=340>
 
 </div>
 
