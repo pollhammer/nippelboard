@@ -2,7 +2,7 @@
 
 <h1>🔴 Nippelboard</h1>
 
-<p><strong>Drück drauf. Der Spruch sitzt.</strong><br>
+<p><strong>Kan Spruch im Kopf? Druck auf'n Knopf.</strong><br>
 Ein Soundboard von Manuel Pollhammer für Web und Android.</p>
 
 <p><a href="https://nippel.pollhammer.org"><strong>▶ Soundboard öffnen</strong></a> · <a href="./Nippelboard%20v1.6.apk?raw=true"><strong>↓ Android-APK v1.6</strong></a></p>
