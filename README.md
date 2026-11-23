@@ -5,7 +5,7 @@
 <p><strong>Kan Spruch im Kopf? Druck auf'n Knopf.</strong><br>
 Ein Soundboard von Manuel Pollhammer für Web und Android.</p>
 
-<p><a href="https://nippel.pollhammer.org"><strong>▶ Soundboard öffnen</strong></a> · <a href="./Nippelboard%20v1.7.apk?raw=true"><strong>↓ Android-APK v1.7</strong></a></p>
+<p><a href="https://nippel.pollhammer.org"><strong>▶ Soundboard öffnen</strong></a> · <a href="https://github.com/pollhammer/nippelboard/raw/e28544de1951b43582194646dfeca022e18bf733/Nippelboard-1.7.apk"><strong>↓ Android-APK v1.7</strong></a></p>
 
 <img src="https://github.com/pollhammer/nippelboard/blob/main/docs/nippelbord.png?raw=true" width=340>
 
