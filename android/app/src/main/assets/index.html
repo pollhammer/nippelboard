@@ -93,7 +93,7 @@ dialog::backdrop{background:#05090ebd}
 <symbol id="close-icon" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"></path></symbol>
 </svg>
 <header class="top">
-  <a class="brand" href="#tvtotal"><span class="brand-icon"><svg class="icon" aria-hidden="true"><use href="#wave"></use></svg></span><span><b>Nippelboard</b><small>by Manuel Pollhammer</small><small>v1.6</small></span></a>
+  <a class="brand" href="#tvtotal"><span class="brand-icon"><svg class="icon" aria-hidden="true"><use href="#wave"></use></svg></span><span><b>Nippelboard</b><small>by Manuel Pollhammer</small><small>v1.7</small></span></a>
   <div class="top-controls">
     <label class="volume"><svg class="icon" aria-hidden="true"><use href="#volume-icon"></use></svg><input id="volume" type="range" min="0" max="100" aria-label="Lautstärke"></label>
     <button class="action stop" id="stop" type="button" aria-label="Wiedergabe stoppen" disabled=""><svg class="icon" aria-hidden="true"><use href="#stop-icon"></use></svg><span>Stopp</span></button>
@@ -514,7 +514,7 @@ function setVolume(newVolume) {
 
 const panels = {
   settings: ["Einstellungen", '<label class="setting">Lautstärke <input id="dialog-volume" type="range" min="0" max="100"> <output id="volume-value"></output></label><button class="action" id="reload" type="button">Soundboard neu laden</button><p><button class="footer-item" type="button" data-panel="version">Version</button><button class="footer-item" type="button" data-panel="help">Hilfe</button><button class="footer-item" type="button" data-panel="privacy">Datenschutz</button></p>'],
-  version: ["Version", '<p><strong>Nippelboard 1.6</strong></p><ul><li>Startet mit den Favoriten, sobald du welche gespeichert hast.</li><li>Importiert MP3- und WAV-Dateien in den Sound-Kategorien. Eigene Sounds lassen sich wieder entfernen.</li><li>112 mitgelieferte Sounds sind offline abspielbar.</li></ul><p><a href="https://www.pollhammer.org/nippel">www.pollhammer.org/nippel</a></p>'],
+  version: ["Version", '<p><strong>Nippelboard 1.7</strong></p><ul><li>Startet mit den Favoriten, sobald du welche gespeichert hast.</li><li>Importiert MP3- und WAV-Dateien in den Sound-Kategorien. Eigene Sounds lassen sich wieder entfernen.</li><li>112 mitgelieferte Sounds sind offline abspielbar.</li></ul><p><a href="https://www.pollhammer.org">www.pollhammer.org</a></p>'],
   help: ["Hilfe", '<p>Wähle eine Kategorie und drücke eine rote Taste. Über die drei Punkte kannst du Sounds als Favoriten merken, teilen oder als Datei speichern.</p><p>Alle 112 Sounds sind in der App enthalten. Die Wiedergabe funktioniert auch ohne Internetverbindung.</p><p>Über „Sound hinzufügen“ kannst du MP3- und WAV-Dateien in der ausgewählten Kategorie speichern. Wähle „Eigene Sounds“, wenn du deine Clips gesammelt ablegen möchtest. Über die drei Punkte kannst du importierte Sounds wieder entfernen.</p>'],
   privacy: ["Datenschutz", '<p>Die App verwendet keine Internetverbindung. Lautstärke, Favoriten und importierte Sounds bleiben auf deinem Gerät. Beim Teilen eines Clips wählst du die Ziel-App aus.</p>'],
 };
