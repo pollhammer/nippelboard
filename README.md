@@ -41,4 +41,5 @@ Die Test-APK liegt danach unter `android/app/build/outputs/apk/debug/app-debug.a
 
 ---
 
-**by Manuel Pollhammer** · [www.pollhammer.org](https://www.pollhammer.org)
+**by Manuel Pollhammer | Release 2026** 
+<br> [www.pollhammer.org](https://www.pollhammer.org)
